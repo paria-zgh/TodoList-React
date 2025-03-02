@@ -19,7 +19,7 @@ A simple and efficient ToDo List application built with React and Redux. This pr
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/todolist-redux.git
+   git clone https://github.com/paria-zgh/TodoList-React.git
    cd todolist-redux
    ```
 
